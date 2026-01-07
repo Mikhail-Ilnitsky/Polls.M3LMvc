@@ -1,6 +1,7 @@
-using System.Diagnostics;
-using Ilnitsky.PollsA.Models;
+﻿using Ilnitsky.PollsA.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
+using System.Diagnostics;
 
 namespace Ilnitsky.PollsA.Controllers
 {
